@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1655692675 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1655696075 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\clientes.h
+
+1655696092 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\consumos.h
+
+1655695800 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1655687702 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+	"gotoxy.h"
+	"windows.h"
+
+1654641544 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655690826 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\menu.h
+
+1654641544 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\gotoxy.h
+
+1655695873 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+	"gotoxy.h"
+	"windows.h"
+
+1655692675 source:c:\users\jairo silva\desktop\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1655696075 c:\users\jairo silva\desktop\trabajo practico final\clientes.h
+
+1655696092 c:\users\jairo silva\desktop\trabajo practico final\consumos.h
+
+1655690826 c:\users\jairo silva\desktop\trabajo practico final\menu.h
+
+1655695800 source:c:\users\jairo silva\desktop\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1654641544 source:c:\users\jairo silva\desktop\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655687702 source:c:\users\jairo silva\desktop\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+	"gotoxy.h"
+	"windows.h"
+
+1654641544 c:\users\jairo silva\desktop\trabajo practico final\gotoxy.h
+
+1655695873 source:c:\users\jairo silva\desktop\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+	"gotoxy.h"
+	"windows.h"
+
